@@ -10,6 +10,10 @@ esphome:
     name: "ApolloAutomation.H-2D"
     version: "${version}"
 
+dashboard_import:
+  package_import_url: github://lcgreenwald/H-2/Integrations/ESPHome/H-2D.yaml
+  import_full_config: false
+
   min_version: 2023.11.1
   on_boot:
     - priority: 500
