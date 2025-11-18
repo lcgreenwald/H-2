@@ -1,0 +1,14 @@
+packages:
+  ApolloAutomation.H-2: # name of package/project
+    url: https://github.com/lcgreenwald/H-2 # url of the repository
+#    url: https://github.com/ApolloAutomation/H-2 # url of the repository
+    ref: main # branch, tag or commit SHA
+    files: [Integrations/ESPHome/H-2.yaml] # Path to config from base repo URL
+    refresh: 1min # how often to sync updates from the remote url
+  remote_package:
+    url: https://github.com/lcgreenwald/H-2/
+    ref: main
+    files:
+      - Integrations/ESPHome/core.yaml
+      - Integrations/ESPHome/MyTunes.yaml
+    refresh: 60s

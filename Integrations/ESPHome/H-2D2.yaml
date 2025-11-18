@@ -116,4 +116,10 @@ script:
                 id: deep_sleep_1
 
 packages:
-  core: !include Core2.yaml
+  core: !include Core.yaml
+  remote_package:
+    url: https://github.com/lcgreenwald/H-1/
+    ref: main
+    files:
+      - Integrations/ESPHome/MyTunes1.yaml
+    refresh: 60s
