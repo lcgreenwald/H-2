@@ -116,4 +116,4 @@ script:
                 id: deep_sleep_1
 
 packages:
-  core: !include Core.yaml
+  core: !include Core2.yaml
