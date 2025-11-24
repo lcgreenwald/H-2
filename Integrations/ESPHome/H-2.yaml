@@ -1,7 +1,5 @@
 esphome:
-#  name: "apollo-h-2"
-#  name: "apollo-h-2-570220"
-  name: "apollo-h-2-5628f4"
+  name: "apollo-h-2"
   friendly_name: Apollo H-2
   comment: Apollo H-2
   name_add_mac_suffix: true

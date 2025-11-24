@@ -1,0 +1,21 @@
+packages:
+  ApolloAutomation.H-2: # name of package/project
+    url: https://github.com/apolloautomation/H-2 # url of the repository
+    ref: Wi-Fi-Fix # branch, tag or commit SHA
+    files: [Integrations/ESPHome/H-2.yaml] # Path to config from base repo URL
+    refresh: 0s # how often to sync updates from the remote url
+    
+
+packages:
+  ApolloAutomation.H-2D: # name of package/project
+    url: https://github.com/lcgreenwald/H-2 # url of the repository
+    ref: main # branch, tag or commit SHA
+    files: [Integrations/ESPHome/H-2.yaml] # Path to config from base repo URL
+    refresh: 0s # how often to sync updates from the remote url
+    
+packages:
+  ApolloAutomation.H-2D: # name of package/project
+    url: https://github.com/lcgreenwald/H-2 # url of the repository
+    ref: main # branch, tag or commit SHA
+    files: [Integrations/ESPHome/H-2D.yaml] # Path to config from base repo URL
+    refresh: 0s # how often to sync updates from the remote url
