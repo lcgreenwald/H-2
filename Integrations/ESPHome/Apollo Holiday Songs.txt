@@ -1,5 +1,5 @@
 H-1
-WeWishYo:d=4,o=5,b=200:d,g,8g,8a,8g,8f#,e,e,e,a,8a,8b,8a,8g,f#,d,d,b,8b,8c6,8b,8a,g,e,d,e,a,f#,2g,d,g,8g,8a,8g,8f#,e,e,e,a,8a,8b,8a,8g,f#,d,d,b,8b,8c6,8b,8a,g,e,d,e,a,f#,1g,d,g,g,g,2f#,f#,g,f#,e,2d,a,b,8a,8a,8g,8g,d6,d,d,e,a,f#,2g;
+OhChrist:d=4,o=5,b=100:c,8f.,16f,f.,8g,8a.,16a,a.,8a,8g,8a,a#,e,g,f,8p,8c6,8c6,8a,d.6,8c6,8c6,8a#,a#.,8a#,8a#,8g,c.6,8a#,8a#,8a,a,8p,8c,8f.,8f,f,8g,8a.,16a,a.,8a,8g,8a,a#,e,g,f;
 jingle:d=4,o=6,b=90:8a5,8a5,a5,8a5,8a5,a5,8a5,8c,8f5,8g5,a5,p,8a#5,8a#5,8a#.5,16a#5,8a#5,8a5,8a.5,16a5,8a5,8g5,8g5,8a5,g5,c,8a5,8a5,a5,8a5,8a5,a5,8a5,8c,8f5,8g5,a5,p,8a#5,8a#5,8a#.5,16a#5,8a#5,8a5,8a.5,16a5,8c,8c,8a5,8g5,f.5;
 carolbells:d=4,o=5,b=200:g,8f#,8g,e,g,8f#,8g,e,g,8f#,8g,e,g,8f#,8g,e,b,8a,8b,g,b,8a,8b,g,b,8a,8b,g,b,8a,8b,g,e6,8e6,8e6,8d6,8c6,b,8b,8b,8a,8g,a,8a,8a,8b,8a,e,8e,8e,e,8b4,8c#,8d#,8e,8f#,8g,8a,8b,a,g,8b4,8c#,8d#,8e,8f#,8g,8a,8b,a,g;
 
