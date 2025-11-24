@@ -160,7 +160,7 @@ text:
     restore_value: true
     mode: text
     optimistic: true
-    initial_value: "jingle:d=8,o=5,b=120:e6,e6,e.6,16p,e6,e6,e.6,16p,e6,g6,c.6,16d6,e.6,p,f6,f6,f.6,16f6,f6,e6,e6,16e6,16e6,e6,d6,d6,e6,d.6,16p,g6,p,e6,e6,e.6,16p,e6,e6,e.6,16p,e6,g6,c.6,16d6,2e6,f6,f6,f.6,16f6,f6,e6,e6,16e6,16e6,g6,g6,f6,d6,2c6;"
+    initial_value: "WeWishYo:d=4,o=5,b=200:d,g,8g,8a,8g,8f#,e,e,e,a,8a,8b,8a,8g,f#,d,d,b,8b,8c6,8b,8a,g,e,d,e,a,f#,2g,d,g,8g,8a,8g,8f#,e,e,e,a,8a,8b,8a,8g,f#,d,d,b,8b,8c6,8b,8a,g,e,d,e,a,f#,1g,d,g,g,g,2f#,f#,g,f#,e,2d,a,b,8a,8a,8g,8g,d6,d,d,e,a,f#,2g;"
   - platform: template
     name: "Song Text 2"
     id: song_2
@@ -187,7 +187,7 @@ text:
     restore_value: true
     mode: text
     optimistic: true
-    initial_value: "bluechristmas:d=4,o=5,b=90:8c,f,g,1a,16a,16g,16a,2g,f,e,2g.,c,g.,8a,2a#.,16a#,16c6,16a#,32c6,16a#,2a.,g,f,2a,8a,8a#,8a,2c.6,8a#,c6,8a#.,2a,2c.6,8a#,8a.,2g,g,1a,2a,g,8f,2a,g,f,e,e,f,f#,g."
+    initial_value: "SantaCla:d=4,o=5,b=160:16c,8e.,16f,g,2g,16g,8a.,16b,c6,2c6,8e.,16f,g,g,g,8a.,16g,f,2f,e,g,c,e,d,2f,b4,1c.,16c,8e.,16f,g,2g,16g,8a.,16b,c6,2c6,8e.,16f,g,g,g,8a.,16g,f,2f,e,g,c,e,d,2f,b4,1c.6;"
 
 binary_sensor:
   - platform: gpio
