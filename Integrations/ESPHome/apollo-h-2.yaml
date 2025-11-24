@@ -1,5 +1,5 @@
 esphome:
-  name: "apollo-h-2d"
+  name: "apollo-h-2"
   friendly_name: Apollo H-2D
   comment: Apollo H-2D
   name_add_mac_suffix: true
@@ -116,10 +116,10 @@ script:
                 id: deep_sleep_1
 
 packages:
-  core: !include Core.yaml
-  remote_package:
-    url: https://github.com/lcgreenwald/H-1/
-    ref: main
-    files:
-      - Integrations/ESPHome/MyTunes1.yaml
-    refresh: 60s
+  ApolloAutomation.H-1: # name of package/project
+#    url: https://github.com/ApolloAutomation/H-2 # url of the repository
+    url: https://github.com/lcgreenwald/H-2 # url of the repository
+    ref: main # branch, tag or commit SHA
+    files:  # Path to config from base repo URL
+      - Integrations/ESPHome/Core.yaml
+    refresh: 1min # how often to sync updates from the remote url
