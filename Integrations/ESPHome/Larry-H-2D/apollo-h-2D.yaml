@@ -1,0 +1,6 @@
+packages:
+  ApolloAutomation.H-2D: # name of package/project
+    url: https://github.com/lcgreenwald/H-2 # url of the repository
+    ref: Wi-Fi-Fix # branch, tag or commit SHA
+    files: [Integrations/ESPHome/H-2D.yaml] # Path to config from base repo URL
+    refresh: 60s # how often to sync updates from the remote url
