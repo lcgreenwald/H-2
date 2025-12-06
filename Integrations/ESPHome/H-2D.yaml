@@ -1,5 +1,5 @@
 esphome:
-  name: "apollo-h-2D"
+  name: "apollo-h-2d"
   friendly_name: Apollo H-2D
   comment: Apollo H-2D
   name_add_mac_suffix: true
